@@ -97,7 +97,6 @@ tr:nth-child(odd){
     background-color: rgb(240, 71, 45);
 }
 table {
-    border-spacing: 5px;
     margin: 100px auto;
 }
 #heading{
