@@ -56,11 +56,6 @@ body{
     width: 70%;
     padding: 15px;
 }
-.content::after{
-    content: "";
-    display: table;
-    clear: both;
-}
 .float{
     float: right;
     margin-left: 20px;
