@@ -1,5 +1,7 @@
 # web-assignment1
 
+https://yerassell.github.io/web-assignment1/
+
 This repository includes four folders representating four tasks. Each html file has a navigation bar that links to each others.
 
 ## Brief description
